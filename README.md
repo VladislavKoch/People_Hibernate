@@ -1,1 +1,3 @@
-Demonstrated skills : Spring MVC, Spring Validator, Hibernate, Postgres, Tomcat 9
+Demonstrated skills : Spring MVC, Spring Validator, Hibernate, DAO
+
+Use Postgres, Tomcat 9
